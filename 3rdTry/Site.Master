@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="_3rdTry.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<body>
+    <h1>Add Block to Chain</h1>
+
+    <form runat="server" action="#" method="get">
+        <fieldset>
+            <p><label for="Input">Input:</label>
+                <input id = "text" type="text" name="title" />
+            </p>
+            <p><input type="submit" name="buttonSubmit" value="Add Block" /></p>
+        </fieldset>
+
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %></p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>
