@@ -34,3 +34,4 @@ C:\Users\dhaslam\source\repos\3rdTry\3rdTry\bin\Microsoft.AI.Web.xml
 C:\Users\dhaslam\source\repos\3rdTry\3rdTry\obj\Debug\3rdTry.csproj.CoreCompileInputs.cache
 C:\Users\dhaslam\source\repos\3rdTry\3rdTry\obj\Debug\3rdTry.dll
 C:\Users\dhaslam\source\repos\3rdTry\3rdTry\obj\Debug\3rdTry.pdb
+C:\Users\dhaslam\source\repos\3rdTry\3rdTry\obj\Debug\3rdTry.csprojResolveAssemblyReference.cache
